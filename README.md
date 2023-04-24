@@ -1,3 +1,6 @@
+# Forked latex-homework-template
+## All homeworks and quizzes for Discrete Math were written with this template
+
 latex-homework-template
 =======================
 
